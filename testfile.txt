@@ -1,0 +1,7 @@
+string1 string2
+"India is my country" "My country name is India"
+"Weather is good, I like it" "I like good weather"
+"Mango is sweet" "Don't go"
+"Why you are angry" "are you angry"
+"Pen pencil" "I am here"
+
