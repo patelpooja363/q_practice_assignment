@@ -1,0 +1,6 @@
+FROM continuumio/anaconda3:4.4.0
+COPY . /Users/Pooja Kumari/.spyder/
+EXPOSE 5000
+WORKDIR /Users/Pooja Kumari/.spyder/
+RUN pip install -r req.txt
+CMD python restapp.py
